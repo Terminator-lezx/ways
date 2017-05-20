@@ -58,6 +58,16 @@ body{
 	display: none;
 }
 
+#selectPartida{
+	text-align: center;
+	display: none;
+}
+
+#selectDestino{
+	text-align: center;
+	display: none;
+}
+
 .caixa{
     width: 300px;
     height: 100vh;
